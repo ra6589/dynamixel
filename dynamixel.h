@@ -1,3 +1,7 @@
+/*
+ * edited by REZA AHMADI
+ * 2016.06.05
+ */
 #ifndef DYNAMIXEL_H_
 #define DYNAMIXEL_H_
 
